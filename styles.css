@@ -61,11 +61,11 @@ div {
   z-index: 1;
   top: 50px;
   left: 50%;
-  margin-left: -236px;
+  margin-left: -186px;
 
   /* Display & Box Model */
   display: block;
-  width: 472px;
+  width: 372px;
   height: 572px;
   padding: 10px;
   border: 4px solid #EEE;
