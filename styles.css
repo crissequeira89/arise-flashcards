@@ -1,0 +1,758 @@
+  /* Positioning */
+
+  /* Display & Box Model */
+
+  /* Color */
+
+  /* Text */
+
+  /* Other */
+
+/*
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  right: 0;
+  
+  display: block;
+  overflow: hidden;
+  box-sizing: border-box;
+  width: 0px;
+  height: 0px;
+  padding: 0px;
+  border: 10px solid #000;
+  border-collapse: collapse;
+  margin: 0px;
+  vertical-align: middle;
+  
+  background: #000;
+  color: #fff;
+  
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.4;
+  text-align: right;
+
+  cursor: pointer;
+*/
+
+/* Check out necolas’ “Principles of writing consistent, idiomatic CSS”: https://github.com/necolas/idiomatic-css/ */
+
+body {
+
+  /* Positioning */
+
+  /* Display & Box Model */
+
+  /* Color */
+
+  /* Text */
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+
+  /* Other */
+
+}
+
+div {
+
+  /* Positioning */
+  position: absolute;
+  z-index: 1;
+  top: 50px;
+  left: 50%;
+  margin-left: -302px;
+
+  /* Display & Box Model */
+  display: block;
+  width: 572px;
+  height: 572px;
+  padding: 10px;
+  border: 4px solid #EEE;
+
+  /* Color */
+  background-color: #FFFF99;
+
+  /* Text */
+
+  /* Other */
+
+}
+
+table {
+
+  /* Positioning */
+
+  /* Display & Box Model */
+  width: 100%;
+  border: 0px;
+  border-collapse: collapse;
+
+  /* Color */
+
+  /* Text */
+  text-align: center;
+
+  /* Other */
+
+}
+
+td {
+
+  /* Positioning */
+
+  /* Display & Box Model */
+  padding: 0px;
+  margin: 0px;
+
+  /* Color */
+
+  /* Text */
+
+  /* Other */
+
+}
+
+td.scriptureref {
+
+  /* Positioning */
+
+  /* Display & Box Model */
+  height: 50px;
+  vertical-align: middle;
+
+  /* Color */
+
+  /* Text */
+
+  /* Other */
+  cursor: pointer;
+
+}
+
+td.scripturetxt {
+
+  /* Positioning */
+
+  /* Display & Box Model */
+  height: 522px;
+  padding-right: 50px;
+  padding-left: 50px;
+  vertical-align: middle;
+
+  /* Color */
+
+  /* Text */
+
+  /* Other */
+
+}
+
+#d2 {
+
+  z-index:2;
+  top: 114px;
+
+}
+
+#d3 {
+
+  z-index:3;
+  top: 178px;
+
+}
+
+#d4 {
+
+  z-index:4;
+  top: 242px;
+
+}
+
+#d5 {
+
+  z-index:5;
+  top: 306px;
+
+}
+
+#d6 {
+
+  z-index:6;
+  top: 370px;
+
+}
+
+#d7 {
+
+  z-index:7;
+  top: 434px;
+
+}
+
+#d8 {
+
+  z-index:8;
+  top: 498px;
+
+}
+
+#d9 {
+
+  z-index:9;
+  top: 562px;
+
+}
+
+#d10 {
+
+  z-index:10;
+  top: 626px;
+
+}
+
+#d11 {
+
+  z-index:11;
+  top: 690px;
+
+}
+
+#d12 {
+
+  z-index:12;
+  top: 754px;
+
+}
+
+#d13 {
+
+  z-index:13;
+  top: 818px;
+
+}
+
+#d14 {
+
+  z-index:14;
+  top: 882px;
+
+}
+
+#d15 {
+
+  z-index:15;
+  top: 946px;
+
+}
+
+#d16 {
+
+  z-index:16;
+  top: 1010px;
+
+}
+
+#d17 {
+
+  z-index:17;
+  top: 1074px;
+
+}
+
+#d18 {
+
+  z-index:18;
+  top: 1138px;
+
+}
+
+#d19 {
+
+  z-index:19;
+  top: 1202px;
+
+}
+
+#d20 {
+
+  z-index:20;
+  top: 1266px;
+
+}
+
+#d21 {
+
+  z-index:21;
+  top: 1330px;
+
+}
+
+#d22 {
+
+  z-index:22;
+  top: 1394px;
+
+}
+
+#d23 {
+
+  z-index:23;
+  top: 1458px;
+
+}
+
+#d24 {
+
+  z-index:24;
+  top: 1522px;
+
+}
+
+#d25 {
+
+  z-index:25;
+  top: 1586px;
+
+}
+
+#d26 {
+
+  z-index:26;
+  top: 1650px;
+
+}
+
+#d27 {
+
+  z-index:27;
+  top: 1714px;
+
+}
+
+#d28 {
+
+  z-index:28;
+  top: 1778px;
+
+}
+
+#d29 {
+
+  z-index:29;
+  top: 1842px;
+
+}
+
+#d30 {
+
+  z-index:30;
+  top: 1906px;
+
+}
+
+#d31 {
+
+  z-index:31;
+  top: 1970px;
+
+}
+
+#d32 {
+
+  z-index:32;
+  top: 2034px;
+
+}
+
+#d33 {
+
+  z-index:33;
+  top: 2098px;
+
+}
+
+#d34 {
+
+  z-index:34;
+  top: 2162px;
+
+}
+
+#d35 {
+
+  z-index:35;
+  top: 2226px;
+
+}
+
+#d36 {
+
+  z-index:36;
+  top: 2290px;
+
+}
+
+#d37 {
+
+  z-index:37;
+  top: 2354px;
+
+}
+
+#d38 {
+
+  z-index:38;
+  top: 2418px;
+
+}
+
+#d39 {
+
+  z-index:39;
+  top: 2482px;
+
+}
+
+#d40 {
+
+  z-index:40;
+  top: 2546px;
+
+}
+
+#d41 {
+
+  z-index:41;
+  top: 2610px;
+
+}
+
+#d42 {
+
+  z-index:42;
+  top: 2674px;
+
+}
+
+#d43 {
+
+  z-index:43;
+  top: 2738px;
+
+}
+
+#d44 {
+
+  z-index:44;
+  top: 2802px;
+
+}
+
+#d45 {
+
+  z-index:45;
+  top: 2866px;
+
+}
+
+#d46 {
+
+  z-index:46;
+  top: 2930px;
+
+}
+
+#d47 {
+
+  z-index:47;
+  top: 2994px;
+
+}
+
+#d48 {
+
+  z-index:48;
+  top: 3058px;
+
+}
+
+#d49 {
+
+  z-index:49;
+  top: 3122px;
+
+}
+
+#d50 {
+
+  z-index:50;
+  top: 3186px;
+
+}
+
+#d51 {
+
+  z-index:51;
+  top: 3250px;
+
+}
+
+#d52 {
+
+  z-index:52;
+  top: 3314px;
+
+}
+
+#d53 {
+
+  z-index:53;
+  top: 3378px;
+
+}
+
+#d54 {
+
+  z-index:54;
+  top: 3442px;
+
+}
+
+#d55 {
+
+  z-index:55;
+  top: 3506px;
+
+}
+
+#d56 {
+
+  z-index:56;
+  top: 3570px;
+
+}
+
+#d57 {
+
+  z-index:57;
+  top: 3634px;
+
+}
+
+#d58 {
+
+  z-index:58;
+  top: 3698px;
+
+}
+
+#d59 {
+
+  z-index:59;
+  top: 3762px;
+
+}
+
+#d60 {
+
+  z-index:60;
+  top: 3826px;
+
+}
+
+#d61 {
+
+  z-index:61;
+  top: 3890px;
+
+}
+
+#d62 {
+
+  z-index:62;
+  top: 3954px;
+
+}
+
+#d63 {
+
+  z-index:63;
+  top: 4018px;
+
+}
+
+#d64 {
+
+  z-index:64;
+  top: 4082px;
+
+}
+
+#d65 {
+
+  z-index:65;
+  top: 4146px;
+
+}
+
+#d66 {
+
+  z-index:66;
+  top: 4210px;
+
+}
+
+#d67 {
+
+  z-index:67;
+  top: 4274px;
+
+}
+
+#d68 {
+
+  z-index:68;
+  top: 4338px;
+
+}
+
+#d69 {
+
+  z-index:69;
+  top: 4402px;
+
+}
+
+#d70 {
+
+  z-index:70;
+  top: 4466px;
+
+}
+
+#d71 {
+
+  z-index:71;
+  top: 4530px;
+
+}
+
+#d72 {
+
+  z-index:72;
+  top: 4594px;
+
+}
+
+#d73 {
+
+  z-index:73;
+  top: 4658px;
+
+}
+
+#d74 {
+
+  z-index:74;
+  top: 4722px;
+
+}
+
+#d75 {
+
+  z-index:75;
+  top: 4786px;
+
+}
+
+#d76 {
+
+  z-index:76;
+  top: 4850px;
+
+}
+
+#d77 {
+
+  z-index:77;
+  top: 4914px;
+
+}
+
+#d78 {
+
+  z-index:78;
+  top: 4978px;
+
+}
+
+#d79 {
+
+  z-index:79;
+  top: 5042px;
+
+}
+
+#d80 {
+
+  z-index:80;
+  top: 5106px;
+
+}
+
+#d81 {
+
+  z-index:81;
+  top: 5170px;
+
+}
+
+#d82 {
+
+  z-index:82;
+  top: 5234px;
+
+}
+
+#d83 {
+
+  z-index:83;
+  top: 5298px;
+
+}
+
+#d84 {
+
+  z-index:84;
+  top: 5362px;
+
+}
+
+#d85 {
+
+  z-index:85;
+  top: 5426px;
+
+}
+
+#d86 {
+
+  z-index:86;
+  top: 5490px;
+
+}
+
+#d87 {
+
+  z-index:87;
+  top: 5554px;
+
+}
+
+#d88 {
+
+  z-index:88;
+  top: 5618px;
+
+}
